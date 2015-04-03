@@ -1,0 +1,11 @@
+D:\Nitu\TelestraTestApp\TelestraTestSol\Average\bin\Debug\Average.exe.config
+D:\Nitu\TelestraTestApp\TelestraTestSol\Average\bin\Debug\Average.exe
+D:\Nitu\TelestraTestApp\TelestraTestSol\Average\bin\Debug\Average.pdb
+D:\Nitu\TelestraTestApp\TelestraTestSol\Average\obj\Debug\Average.exe
+D:\Nitu\TelestraTestApp\TelestraTestSol\Average\obj\Debug\Average.pdb
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\bin\Debug\Average.exe.config
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\bin\Debug\Average.exe
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\bin\Debug\Average.pdb
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\obj\Debug\Average.csprojResolveAssemblyReference.cache
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\obj\Debug\Average.exe
+D:\Nitu\TelestraTestApp\TelstraTestSol\Average\obj\Debug\Average.pdb

@@ -1,0 +1,11 @@
+D:\Nitu\TelestraTestApp\TelestraTestSol\CD\bin\Debug\CD.exe.config
+D:\Nitu\TelestraTestApp\TelestraTestSol\CD\bin\Debug\CD.exe
+D:\Nitu\TelestraTestApp\TelestraTestSol\CD\bin\Debug\CD.pdb
+D:\Nitu\TelestraTestApp\TelestraTestSol\CD\obj\Debug\CD.exe
+D:\Nitu\TelestraTestApp\TelestraTestSol\CD\obj\Debug\CD.pdb
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\bin\Debug\CD.exe.config
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\bin\Debug\CD.exe
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\bin\Debug\CD.pdb
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\obj\Debug\CD.csprojResolveAssemblyReference.cache
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\obj\Debug\CD.exe
+D:\Nitu\TelestraTestApp\TelstraTestSol\CD\obj\Debug\CD.pdb
